@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Genre:"; ObjectID = "abA-AO-TIo"; */
+"abA-AO-TIo.text" = "Жанр:";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "lw9-Vp-Bcr"; */
+"lw9-Vp-Bcr.text" = "Тип:";
+
+/* Class = "UISegmentedControl"; uAi-F6-Vgk.segmentTitles[0] = "All"; ObjectID = "uAi-F6-Vgk"; */
+"uAi-F6-Vgk.segmentTitles[0]" = "Все";
+
+/* Class = "UISegmentedControl"; uAi-F6-Vgk.segmentTitles[1] = "Music"; ObjectID = "uAi-F6-Vgk"; */
+"uAi-F6-Vgk.segmentTitles[1]" = "Музыка";
+
+/* Class = "UISegmentedControl"; uAi-F6-Vgk.segmentTitles[2] = "Apps"; ObjectID = "uAi-F6-Vgk"; */
+"uAi-F6-Vgk.segmentTitles[2]" = "Приложения";
+
+/* Class = "UISegmentedControl"; uAi-F6-Vgk.segmentTitles[3] = "E-books"; ObjectID = "uAi-F6-Vgk"; */
+"uAi-F6-Vgk.segmentTitles[3]" = "Книги";
+
+/* Class = "UISearchBar"; placeholder = "App name, artist, song, album, e-book"; ObjectID = "y8K-30-Mcy"; */
+"y8K-30-Mcy.placeholder" = "Название приложения, исполнитель, песня, книга";
